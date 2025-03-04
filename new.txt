@@ -1,2 +1,3 @@
 name preethi 
 class bca c
+clg kjc
